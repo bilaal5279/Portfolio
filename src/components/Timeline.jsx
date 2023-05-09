@@ -83,10 +83,9 @@ const Timeline = () => {
   <h3 className="vertical-timeline-element-title">Working on this portfolio</h3>
   <h4 className="vertical-timeline-element-subtitle">Personal Project</h4>
   <p>
-    Working on a second version of my portfolio website using React, Next.js, Tailwind CSS, and Firebase to showcase my skills and projects.
+    Working on a second version of my portfolio website using React ,Tailwind CSS,
   </p>
-  <a href="#portfolio2" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline" >Visit Portfolio Website</a> 
-  <a href="https://github.com/bilalishtiaq/bilalishtiaq.com-v2" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code</a> 
+  <a href="https://github.com/bilaal5279/Portfolio" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code</a> 
 </VerticalTimelineElement>
 </VerticalTimeline>
 </div>
