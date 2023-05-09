@@ -37,7 +37,7 @@ const Timeline = () => {
         <p>
           My first ever website as a University Assignment coded in pure HTML and CSS
                   </p>
-        <a href="https://i039978m-wdos.web.app/index.html" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline" >Visit Portfolio Website</a> 
+        <a href="https://i039978m-wdos.web.app/index.html" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline" >Visit Website</a> 
         <a href="https://github.com/bilaal5279/FirstPortfolio" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code</a> 
       </VerticalTimelineElement>
 <VerticalTimelineElement
@@ -83,9 +83,11 @@ const Timeline = () => {
   <h3 className="vertical-timeline-element-title">Working on this portfolio</h3>
   <h4 className="vertical-timeline-element-subtitle">Personal Project</h4>
   <p>
-    Working on a second version of my portfolio website using React ,Tailwind CSS,
+    Working on a second version of my portfolio website using React ,Tailwind CSS and JavaScript
   </p>
-  <a href="https://github.com/bilaal5279/Portfolio" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code</a> 
+  <a href="#" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline" >Visit Website</a>  
+  <a href="https://github.com/bilaal5279/Portfolio" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code </a> 
+
 </VerticalTimelineElement>
 </VerticalTimeline>
 </div>
