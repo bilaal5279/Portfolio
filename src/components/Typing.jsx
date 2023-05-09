@@ -13,7 +13,7 @@ const Typing = () => {
           1000,
           'Entrepreneur ',
           1000,
-          'Entrepreneur',
+          'Investor',
           1000,
           'Student',
           1000,
