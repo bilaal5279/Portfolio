@@ -34,8 +34,8 @@ const AboutMe = () => {
             Skills
           </animated.p>
           <p className='py-4 text-2xl'>
-          I have a passion for exploring and mastering new skills. Here are some of the technologies that I have experience with.
-          </p>
+          I am always eager to learn new things and challenge myself as a web developer.
+           I have worked with various technologies and tools that have helped me create and improve web applications. Here are some of the skills that I have acquired and mastered over time.          </p>
         </div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
           {/* Use animated tag to apply the barSpring animation */}
