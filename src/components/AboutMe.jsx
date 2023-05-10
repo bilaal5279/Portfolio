@@ -34,9 +34,10 @@ const AboutMe = () => {
             Skills
           </animated.p>
           <p className='py-4 text-2xl'>
-          I am always eager to learn new things and challenge myself as a web developer.
-           I have worked with various technologies and tools that have helped me create and improve web applications. Here are some of the skills that I have acquired and mastered over time.          </p>
-        </div>
+          As an ambitious and dedicated web developer, I am constantly pursuing new challenges and opportunities to expand my expertise. Over the course of my career, I have had the privilege of working with a diverse range of cutting-edge technologies and tools, empowering me to deliver exceptional web applications. Here are some of the key proficiencies that I have refined and perfected throughout my professional journey.
+
+</p>
+</div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
           {/* Use animated tag to apply the barSpring animation */}
           <animated.div
