@@ -43,7 +43,7 @@ const Timeline = () => {
   className="vertical-timeline-element--work"
   contentStyle={{ background: '#000', color: '#fff' }}
   contentArrowStyle={{ borderRight: '7px solid  #000' }}
-  date="January 2023 - March 2023"
+  date="Feb 2023 - Jun 2023"
   iconStyle={{ background: '#000', color: '#fff' }}
   icon={<FontAwesomeIcon icon={faHeart} />} // use font awesome icon
 >
@@ -62,7 +62,7 @@ and robust customization options to meet diverse job requirements
   className="vertical-timeline-element--work"
   contentStyle={{ background: '#000', color: '#fff' }}
   contentArrowStyle={{ borderRight: '7px solid  #000' }}
-  date="Feb 2023 - Jun 2023"
+  date="Aug 2024 - Aug 2024"
   iconStyle={{ background: '#000', color: '#fff' }}
   icon={<FontAwesomeIcon icon={faFire} />} // use font awesome icon
 >
@@ -81,17 +81,21 @@ development practices.
   className="vertical-timeline-element--work"
   contentStyle={{ background: '#000', color: '#fff' }}
   contentArrowStyle={{ borderRight: '7px solid  #000' }}
-  date="Feb 2023 - Jun 2023"
+  date="Apr 2024 - May 2024"
   iconStyle={{ background: '#000', color: '#fff' }}
   icon={<FontAwesomeIcon icon={faFire} />} // use font awesome icon
 >
-  <h3 className="vertical-timeline-element-title">Portfolio V2</h3>
+  <h3 className="vertical-timeline-element-title">Theme Park System</h3>
   <h4 className="vertical-timeline-element-subtitle">Personal Project</h4>
   <p>
-  I am currently engaged in the development of an updated version of my professional portfolio website using the latest technologies and frameworks. Specifically, I am utilizing React, Tailwind CSS, and JavaScript to create a dynamic and visually stunning user interface that showcases my skills and achievements in a compelling and engaging manner. 
+  Developed a Theme Park Management System using Node.js, Express.js, and MongoDB. This project
+implements CRUD operations for managing theme park data, including attractions, tickets, and user
+profiles. MongoDB serves as the database backend, ensuring efficient and scalable data storage.
+Features include user authentication with Firebase, and modular code organization for easy
+maintainability and scalability.
   </p>
   <a href="#" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline" >Visit Website</a>  
-  <a href="https://github.com/bilaal5279/Portfolio" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code </a> 
+  <a href="https://github.com/bilaal5279/Theme-Park-NodeJs" target="_blank" rel="noreferrer" className="inline-block mr-2 cursor-pointer underline">View GitHub Code </a> 
 
 </VerticalTimelineElement>
 </VerticalTimeline>
