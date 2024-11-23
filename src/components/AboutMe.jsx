@@ -34,7 +34,8 @@ const AboutMe = () => {
             Skills
           </animated.p>
           <p className='py-4 text-2xl'>
-          As an ambitious and dedicated web developer, I am constantly pursuing new challenges and opportunities to expand my expertise. Over the course of my career, I have had the privilege of working with a diverse range of cutting-edge technologies and tools, empowering me to deliver exceptional web applications. Here are some of the key proficiencies that I have refined and perfected throughout my professional journey.
+          As a motivated and dedicated software engineer, I am committed to continuous growth and embracing new challenges to expand my skill set. Throughout my career, I have had the opportunity to work with a diverse range of technologies and tools, which has equipped me to deliver high-quality solutions across various domains. Below are some of the key proficiencies I have honed and refined during my professional journey.
+
 
 </p>
 </div>
