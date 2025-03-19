@@ -52,7 +52,7 @@ const Contact = () => {
     {
       icon: <FaPhoneAlt />,
       title: 'Phone',
-      details: '+44 123 456 7890'
+      details: '+44 7979 468826'
     },
     {
       icon: <FaEnvelope />,
