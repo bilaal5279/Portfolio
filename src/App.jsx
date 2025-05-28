@@ -15,7 +15,7 @@ import './App.css';
 const App = () => {
   return (
     <>
-      <ScrollToTop /> {/* This will handle scroll behavior without errors */}
+      <ScrollToTop /> 
       <Navbar />
       <Routes>
         <Route path="/" element={

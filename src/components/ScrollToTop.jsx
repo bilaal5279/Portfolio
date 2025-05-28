@@ -1,4 +1,3 @@
-// 1. First, modify your ScrollToTop component to respect hash links:
 
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
@@ -29,7 +28,7 @@ export default ScrollToTop;
 
 const scrollWithOffset = (el) => {
   const elementPosition = el.getBoundingClientRect().top;
-  const offsetPosition = elementPosition + window.pageYOffset - 80; // 80px for navbar height
+  const offsetPosition = elementPosition + window.pageYOffset - 80; 
   
   window.scrollTo({
     top: offsetPosition,
